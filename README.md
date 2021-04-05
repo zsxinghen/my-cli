@@ -24,6 +24,7 @@ log-symbols，可以在终端上显示出 √ 或 × 等的图标。
 ```
 
 具体搭建参考：
-https://segmentfault.com/a/1190000023059874
 
-https://segmentfault.com/a/1190000015222967?utm_source=sf-similar-article
+* https://segmentfault.com/a/1190000023059874
+
+* https://segmentfault.com/a/1190000015222967?utm_source=sf-similar-article
